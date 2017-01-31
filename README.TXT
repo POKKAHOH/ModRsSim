@@ -1,3 +1,6 @@
+Origin in
+http://www.plcsimulator.org/
+
 project folders:
 src/mod_rssim  - application
 src/mylib      - required library
